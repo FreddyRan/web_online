@@ -1,6 +1,5 @@
 import React from 'react'
 import Logo1 from "./Logo1.png";
-
 export const Header = () => {
     return (
         <header>
