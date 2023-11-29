@@ -24,6 +24,9 @@ export const Header = () => {
                 <li>
                     <a href="#">VISITANOS</a>
                 </li>
+                <li>
+                    <a href="#">REGISTRATE</a>
+                </li>
             </ul>
             <div className="carrito">
                 <box-icon name="carrito"></box-icon>
