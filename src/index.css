@@ -48,7 +48,7 @@ a{
   text-transform: uppercase;
 }
 a:hover{
-  color: #08a05c;
+  color: #74e3b1;
 }
 li{
   list-style: none;
@@ -69,8 +69,8 @@ Header .carrito{
   cursor: pointer;
 }
 Header .carrito box-icon{
-  width: 45px;
-  height: 45px;
+  width: 5px;
+  height: 5px;
 }
 Header .carrito span{
   position: absolute;
@@ -78,12 +78,12 @@ Header .carrito span{
   right: -1.5rem;
   width: 2.5rem;
   height: 2.5rem;
-  border: 1px solid red;
+  border: 1px solid rgb(14, 14, 14);
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: rgb(15, 14, 14);
+  color: rgb(18, 84, 18);
   padding: 0rem;
   font-size: 1.5rem;
   font-weight: 700;
@@ -97,3 +97,4 @@ Header .carrito span{
   width: 45px;
   height: 45px;
 }
+

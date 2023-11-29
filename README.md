@@ -1,3 +1,7 @@
+# Cordial saludo, Profesora yury, el proyecto se basa en el diseño de una pagina web de venta de ropa online, no se logro el objetivo de terminarla, pero como reto personal la terminare, ya que se va a tomar para una idea de negocio con mi esposa, el Link del trabajo es:
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

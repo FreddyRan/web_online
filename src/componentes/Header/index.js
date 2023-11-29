@@ -9,7 +9,7 @@ export const Header = () => {
             </div>
             <a href="#">
                 <div className="logo">
-                    <img scr={Logo1} alt="logo"width="150"/>
+                    <img scr={Logo1} alt="logo"width="50"/>
                 </div>
             </a>
             <ul>
@@ -33,6 +33,7 @@ export const Header = () => {
             </ul>
             <div className="carrito">
                 <box-icon name="carrito"></box-icon>
+                <p>Tus Compras</p>
                 <span className="item__total"></span>
             </div>
         </header>
