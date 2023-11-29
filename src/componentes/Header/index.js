@@ -32,7 +32,9 @@ export const Header = () => {
             </ul>
             <div className="carrito">
                 <box-icon name="carrito"></box-icon>
-                <p>Tus Compras</p>
+                <li>
+                    <a href="#">Tus compras</a>
+                </li>
                 <span className="item__total"></span>
             </div>
         </header>
